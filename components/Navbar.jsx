@@ -1,5 +1,5 @@
 "use client";
-import { menuLinks } from "@/data";
+import { menuLinks } from "@/constants";
 import Link from "next/link";
 import { MdOutlineMenu } from "react-icons/md";
 import { IoCloseSharp } from "react-icons/io5";
