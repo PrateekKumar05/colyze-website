@@ -30,5 +30,33 @@
         "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, excepturi!"
       }
     ]
+  },
+
+  "aboutUs": {
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, excepturi!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, excepturi!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, excepturi! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, excepturi! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, excepturi! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, excepturi! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, excepturi!",
+    "image": "aboutVector.svg"
+  },
+
+  "faq": {
+    "title": "FAQ",
+    "content": [
+      {
+        "title": "Question about Something",
+        "ans": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, excepturi"
+      },
+      {
+        "title": "Question about Something",
+        "ans": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, excepturi"
+      },
+      {
+        "title": "Question about Something",
+        "ans": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, excepturi"
+      },
+      {
+        "title": "Question about Something",
+        "ans": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, excepturi"
+      }
+    ],
+    "image": "faq.svg"
   }
 }
