@@ -69,7 +69,7 @@ const Navbar = () => {
                 </ul>
               ))}
 
-              <Link href="/signup">
+              <Link href="/signup" onClick={handleChange}>
                 <Button title="Login / SignUp" />
               </Link>
             </div>
