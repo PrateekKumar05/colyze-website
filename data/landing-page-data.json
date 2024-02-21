@@ -1,0 +1,34 @@
+{
+  "homePage": {
+    "title": "Innovate Your Ideas",
+    "content": "Connect, Create, Captivate: Your Social Universe, Redefined.",
+    "buttonTitle": "Explore Projects",
+    "image": "homeVector.svg"
+  },
+
+  "whyus": {
+    "title": "Why Us",
+    "content": [
+      {
+        "index": "01",
+        "title": "Technology and Innovation",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, excepturi!"
+      },
+      {
+        "index": "02",
+        "title": "Technology and Innovation",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, excepturi!"
+      },
+      {
+        "index": "03",
+        "title": "Technology and Innovation",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, excepturi!"
+      },
+      {
+        "index": "04",
+        "title": "Technology and Innovation",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, excepturi!"
+      }
+    ]
+  }
+}
