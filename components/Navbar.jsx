@@ -14,9 +14,11 @@ const Navbar = () => {
     <div className="w-full h-20 px-4 lg:px-10">
       <div className="container mx-auto w-full h-full">
         <div className="flex items-center justify-between w-full h-full">
-          <h2>
-            COL<span>YZE</span>
-          </h2>
+          <Link href="/">
+            <h2>
+              COL<span>YZE</span>
+            </h2>
+          </Link>
 
           <div className="hidden lg:flex items-center gap-10 text-lg">
             {menuLinks.map((list, index) => {
@@ -32,7 +34,9 @@ const Navbar = () => {
             })}
           </div>
 
-          <Button title="Login / SignUp" className="hidden lg:flex" />
+          <Link href="/signup">
+            <Button title="Login / SignUp" className="hidden lg:flex" />
+          </Link>
 
           <div
             className="block lg:hidden bg-secondary text-background rounded-full p-2"
@@ -65,7 +69,9 @@ const Navbar = () => {
                 </ul>
               ))}
 
-              <Button title="Login / SignUp"/>
+              <Link href="/signup">
+                <Button title="Login / SignUp" />
+              </Link>
             </div>
           </div>
         </div>
