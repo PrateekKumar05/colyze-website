@@ -7,7 +7,7 @@ const Signup = () => {
       <TransitionEffect />
       <div className="container mx-auto w-full h-full">
         <div className="flex items-center justify-center w-full h-full">
-          <h2>This page is under development</h2>
+          <h2>This page is still under development</h2>
         </div>
       </div>
     </div>
